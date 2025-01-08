@@ -1,4 +1,4 @@
-//Español: Hola, soy Joseangel. Sí llegaste aquí desde mi portafolio es para que revises mi trabajo. Esta es un app sencilla que cree y lo que hace es conectarse a la API de google y me muestra la ubicación excata en la que se encuentra el dispositivo.
+//Español: Hola, soy Joseangel. Sí llegaste aquí desde mi portafolio es para que revises mi trabajo. Esta es un app sencilla que cree y lo que hace es conectarse a la API de google y me muestra la ubicación exacta en la que se encuentra el dispositivo.
 También implemente en esta app la petición de permisos en Android Utilizando Jetpack Compose.
 Te pido que descargues la app para que puedas evaluar realmente mi trabajo. 
 Para descargarla tienes que descargar este repositorio y ejecutarlo en tu Android Studio.
